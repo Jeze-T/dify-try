@@ -7,9 +7,16 @@
 
 ![image](https://github.com/user-attachments/assets/4164c654-002e-47a9-9955-139d56c1eed8)
 
+官网：
+https://cloud.dify.ai/
 
-dify安装参考：https://zhuanlan.zhihu.com/p/1897651300860158702
+一开始想用Github工具，通过传入搜索关键词来搜索相关仓库，再获取仓库的README内容，然后让LLM生成一个JSON格式的内容，包括仓库名，仓库README摘要，仓库链接，最后通过邮件发送。
 
+但是Github工具好像有点问题，传入不了输入。不止这个工具，一些其他工具也有这样的问题。
+
+
+本地dify安装参考：https://zhuanlan.zhihu.com/p/1897651300860158702
+（事实上不需要本地安装）
 下载dify源码 https://github.com/langgenius/dify
 
 然后 进入到源代码中的 docker 目录下
