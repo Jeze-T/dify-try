@@ -18,7 +18,9 @@ https://cloud.dify.ai/
 ----------------------------------------------------------------------
 
 本地dify安装参考：https://zhuanlan.zhihu.com/p/1897651300860158702
+
 （事实上不需要本地安装）
+
 下载dify源码 https://github.com/langgenius/dify
 
 然后 进入到源代码中的 docker 目录下
